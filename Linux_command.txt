@@ -1,1 +1,20 @@
-test
+1. pwd -> Present Working Directory
+2. uname -a -> shows the version of the operating system
+3. whoami -> shows the user Name
+4. clear or (Ctrl + L) -> used to clear the screen
+5. history -> Used to show the past commands that have been used
+6. mkdir -> used to create a new Directory
+7. cd -> used to change the Directory
+8. vi -> used to create a file 
+9. :wq -> used to save and quit from the file
+10. ls -> used to list the files
+11. :q! -> used to quit the file without saving
+12. sudo -> it denotes that you are the root user and it can be only used by the administrator
+13. apt-get install -> used to install any packages
+14. touch -> used to create a dummy file or empty file
+15. rm -> is used to remove the files 
+16. rm * -> is used to remove all the files in the Directory
+17. cat -> is used to view the data within the files without entering into it
+18. cp -> copy the text from one file to another
+19. mv -> mv (move) is used to move the data from one file to another
+20. echo -> it act as a print statment
